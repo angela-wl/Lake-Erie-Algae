@@ -1,23 +1,23 @@
 Lake Erie Satellite-derived Daily Algal Bloom Indices //,,,,,,,,
-Data File Name // Nom du fichier de données,,,,,,,,LakeErie_Daily_BloomIndices.csv
+Data File Name // Nom du fichier de donnÃ©es,,,,,,,,LakeErie_Daily_BloomIndices.csv
 Data Version //,,,,,,,,v2019.1
 Data DOI //,,,,,,,,
-Date File Generated // Date de fichier généré,,,,,,,,29/07/2019
+Date File Generated // Date de fichier gÃ©nÃ©rÃ©,,,,,,,,29/07/2019
 Organization Name // Nom de l'organisation,,,,,,,,Environment and Climate Change Canada // Environnement et Changement climatique Canada
-Organization Conctact Information // Coor-données de l'organisation,,,,,,,,"200 Sacre-Coeur Blvd, Gatineau, Quebec, K1A 0H3 // 200, boul. Sacré Coeur, Gatineau (Quebec) K1A 0H3"
+Organization Conctact Information // Coor-donnÃ©es de l'organisation,,,,,,,,"200 Sacre-Coeur Blvd, Gatineau, Quebec, K1A 0H3 // 200, boul. SacrÃ© Coeur, Gatineau (Quebec) K1A 0H3"
 Context Note // Notre contextuelle,,,,,,,,These data are the daily algal bloom indices for Lake Erie published in the ECCC EOLakeWatch interactive data portal. No data is flagged as 'N/A'. // 
 Email // Courriel,,,,,,,,ec.EOLakeWatch-ObservationsLacsOT.ec@Canada.ca
 Principal Investigator // Chercheur principal,,,,,,,,Caren Binding
-Principal Investigator Affiliation // Affiliation du chercheur principal,,,,,,,,"Environment and Climate Change Canada, Science and Techonology Branch, Water Science and Technology Directorate, Watershed Hydrology and Ecology Research Division // Environnement et Changement climatique Canada, Direction générale des sciences et de la technologie, Direction des sciences et technologie - Eau, Division de la recherche hydrologique et écologique sure les bassins hydrologique"
-Principal Invesigator Contact Information // Coordonées du chercheur principal,,,,,,,,Caren.Binding@Canada.ca
-Data Stewards // Intendentants des données,,,,,,,,Caren Binding
+Principal Investigator Affiliation // Affiliation du chercheur principal,,,,,,,,"Environment and Climate Change Canada, Science and Techonology Branch, Water Science and Technology Directorate, Watershed Hydrology and Ecology Research Division // Environnement et Changement climatique Canada, Direction gÃ©nÃ©rale des sciences et de la technologie, Direction des sciences et technologie - Eau, Division de la recherche hydrologique et Ã©cologique sure les bassins hydrologique"
+Principal Invesigator Contact Information // CoordonÃ©es du chercheur principal,,,,,,,,Caren.Binding@Canada.ca
+Data Stewards // Intendentants des donnÃ©es,,,,,,,,Caren Binding
 Open Government Licence-Canada // Licence du gouvernement ouverte,,,,,,,,http://open.canada.ca/en/open-government-licence-canada // http://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada
 Attribution,,,,,,,,"Environment and Climate Change Canada EOLakeWatch, [Year Accessed]. LakeErie_Daily_BloomIndices.csv, generated 2019-07-29. Accessed on [Year-Month-Day] from EOLakeWatch [URL] //"
-Acknowledgement Statement // Énoncé de reconnaissance,,,,,,,,The author(s) acknowledge Environment and Climate Change Canada EOLakeWatch  // 
-Quality Assurance Level and Disclaimer // Niveau d'assurance de la qualité,,,,,,,,"Level 3, defined as data that have received intense scruitiny through analysis or use in modeling. // Définition du niveau3 : données rigoureusement examinées, au moyen d'analyses ou de modélisations."
+Acknowledgement Statement // Ã‰noncÃ© de reconnaissance,,,,,,,,The author(s) acknowledge Environment and Climate Change Canada EOLakeWatch  // 
+Quality Assurance Level and Disclaimer // Niveau d'assurance de la qualitÃ©,,,,,,,,"Level 3, defined as data that have received intense scruitiny through analysis or use in modeling. // DÃ©finition du niveau3 : donnÃ©es rigoureusement examinÃ©es, au moyen d'analyses ou de modÃ©lisations."
 ,,,,,,,,
 "Date
- (dd-mm-yyyy)",Lake,Satellite Sensor,Bloom Extent (KM2),Bloom Extent (% of Lake Area),Bloom Intensity (µg/L),Bloom Severity (µg/L km2),"Valid Pixels
+ (dd-mm-yyyy)",Lake,Satellite Sensor,Bloom Extent (KM2),Bloom Extent (% of Lake Area),Bloom Intensity (Âµg/L),Bloom Severity (Âµg/L km2),"Valid Pixels
  (% of Lake Area)",
 02/06/2002,Lake Erie,MERIS,25.83,0.1,15.74,406.52,28.71,
 15/06/2002,Lake Erie,MERIS,25.83,0.1,15.74,406.52,28.71,
