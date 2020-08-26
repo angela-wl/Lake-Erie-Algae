@@ -1,4 +1,4 @@
-# Lake-Erie-Algae
+# Lake Erie Algae Blooms
 
 Purpose: predict algae bloom intensity and area using a range of data related to Lake Erie characteristics and quality such as water temperature, presence of pesticides etc. 
 
